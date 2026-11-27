@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 
 import { addDoc, collection, serverTimestamp } from 'firebase/firestore';
-import { db } from '../firebase/firebaseConfig';
+import { db } from '../../firebase/firebaseConfig';
 
 export default function ExploreScreen() {
   const [city, setCity] = useState('');

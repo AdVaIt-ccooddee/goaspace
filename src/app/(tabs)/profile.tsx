@@ -7,7 +7,7 @@ export default function ProfileScreen() {
       <Text style={styles.heading}>My Profile</Text>
 
       <Text style={styles.description}>
-        Login and account details will be added later.
+        Login and account details will be added later.handwritten sir no ai
       </Text>
     </View>
   );

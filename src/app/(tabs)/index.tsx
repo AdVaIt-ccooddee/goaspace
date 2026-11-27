@@ -9,8 +9,7 @@ export default function HomeScreen() {
       <Text style={styles.heading}>Explore Goa</Text>
 
       <Text style={styles.description}>
-        Discover beaches, beautiful places and
-        hidden gems across Goa.
+        Hello Akash Sir!!
       </Text>
 
       <Text style={styles.message}>
